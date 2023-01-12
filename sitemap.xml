@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+<loc>https://aghasur.github.io/about.html</loc>
+<changefreq>hourly</changefreq>
+</url>
+<url>
+<loc>https://aghasur.github.io/terms-and-conditions.html</loc>
+<changefreq>hourly</changefreq>
+</url>
+<url>
+<loc>https://aghasur.github.io/privacy-policy.html</loc>
+<changefreq>hourly</changefreq>
+</url>
+<url>
+<loc>https://aghasur.github.io/contact.html</loc>
+<changefreq>hourly</changefreq>
+</url>
+</urlset>
